@@ -1,7 +1,7 @@
 ## Olá! Eu sou o Wellington Vasconcelos
 
-- 🔭 Hoje trabalho back-end
-- 🌱 Estudando Java
+- 🔭 Hoje trabalho com back-end
+- 🌱 Estudando Java e Springboot
 - 😄 Pronouns: ele/dele
 
 <div>
